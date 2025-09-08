@@ -1,12 +1,12 @@
 {
   "name": "suportter",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "API de gerenciamento de tickets de suporte",
+  "main": "src/server.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node --watch src/server.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "pierrerrr",
   "license": "ISC"
 }
