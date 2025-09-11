@@ -1,4 +1,4 @@
-async function jsonHandler(req, res) {
+export async function jsonHandler(req, res) {
     const buffers = []
 
     for await (const chunk of req) {
