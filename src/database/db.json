@@ -1,1 +1,35 @@
-{"tickets":[{"id":"09c58170-ca38-45ce-84ba-5eb474c635ca","status":"open","created_at":"2025-09-11T23:56:19.788Z","updated_at":"2025-09-11T23:56:19.788Z"},{"id":"d1900405-a6a5-4a6c-8f33-6bccb3acd467","user_name":"iago pierre","status":"open","created_at":"2025-09-11T23:56:29.564Z","updated_at":"2025-09-11T23:56:29.564Z"},{"id":"5a15bdb8-0164-4005-a285-0cc5d97f4278","equipament":"teclado","description":"tecla com duplo clique","user_name":"iago pierre","status":"open","created_at":"2025-09-11T23:58:00.795Z","updated_at":"2025-09-11T23:58:00.795Z"},{"id":"cf406fb8-227f-49d0-a069-81f7456e7970","equipament":"monitor","description":"ponto preto na tela","user_name":"iago pierre","status":"open","created_at":"2025-09-12T00:04:30.500Z","updated_at":"2025-09-12T00:04:30.500Z"}]}
+{
+    "tickets": [
+        {
+            "id": "09c58170-ca38-45ce-84ba-5eb474c635ca",
+            "status": "open",
+            "created_at": "2025-09-11T23:56:19.788Z",
+            "updated_at": "2025-09-11T23:56:19.788Z"
+        },
+        {
+            "id": "d1900405-a6a5-4a6c-8f33-6bccb3acd467",
+            "user_name": "iago pierre",
+            "status": "closed",
+            "created_at": "2025-09-11T23:56:29.564Z",
+            "updated_at": "2025-09-11T23:56:29.564Z"
+        },
+        {
+            "id": "5a15bdb8-0164-4005-a285-0cc5d97f4278",
+            "equipament": "teclado",
+            "description": "tecla com duplo clique",
+            "user_name": "iago pierre",
+            "status": "closed",
+            "created_at": "2025-09-11T23:58:00.795Z",
+            "updated_at": "2025-09-11T23:58:00.795Z"
+        },
+        {
+            "id": "cf406fb8-227f-49d0-a069-81f7456e7970",
+            "equipament": "monitor",
+            "description": "ponto preto na tela",
+            "user_name": "iago pierre",
+            "status": "open",
+            "created_at": "2025-09-12T00:04:30.500Z",
+            "updated_at": "2025-09-12T00:04:30.500Z"
+        }
+    ]
+}
